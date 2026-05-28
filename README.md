@@ -103,8 +103,6 @@ From the documented project record at the time:
 - Increased efficiency of migration tracking, scheduling, and reporting versus prior manual processes
 - Training coordination for end users through the integrated SATT module
 
-The project outcome from the 2007 resume: "DSI Migration Web application resulted in increased efficiency of migration tracking, scheduling and reporting."
-
 ---
 
 ## Why This Matters in 2026
