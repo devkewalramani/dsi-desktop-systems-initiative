@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_migrations" value="name:C005Lname;datatype:,name:C006Fname;datatype:,name:C00Location;datatype:,name:C010Floor;datatype:,name:C013Phone;datatype:,name:C015MachineType;datatype:,name:C021Status;datatype:,name:C029MigrationDate;datatype:,name:C032StartTime;datatype:" />
+</info>

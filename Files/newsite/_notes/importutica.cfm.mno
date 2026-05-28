@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_importutica" value="name:ID;datatype:,name:fname;datatype:,name:lname;datatype:,name:wrkhrs;datatype:,name:logon;datatype:,name:blkberry;datatype:,name:bu;datatype:" />
+	<infoitem key="UD_openutica" value="name:fname;datatype:,name:lname;datatype:,name:logon;datatype:,name:serial;datatype:,name:actualdate;datatype:,name:stime;datatype:" />
+</info>

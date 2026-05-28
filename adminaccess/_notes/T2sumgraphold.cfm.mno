@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_summary" value="name:tech;datatype:,name:preextract;datatype:,name:addtogroup;datatype:,name:extraction;datatype:,name:swaphw;datatype:,name:firstboot;datatype:,name:injection;datatype:,name:smsclient;datatype:,name:groupremoval;datatype:,name:userlogin;datatype:,name:postmi;datatype:,name:userverifi;datatype:,name:other;datatype:" />
+	<infoitem key="UD_techs" value="name:Tech;datatype:,name:Count;datatype:" />
+	<infoitem key="UD_summary1" value="name:totavg;datatype:,name:totmin;datatype:,name:totmax;datatype:" />
+</info>

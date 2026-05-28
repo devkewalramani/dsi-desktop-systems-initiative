@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tot" value="name:count;datatype:" />
+	<infoitem key="UD_crap" value="name:tot1;datatype:,name:tot2;datatype:,name:tot3;datatype:,name:tot4;datatype:,name:tot5;datatype:,name:tot6;datatype:,name:tot7;datatype:,name:tot8;datatype:,name:tot9;datatype:,name:tot10;datatype:,name:tot11;datatype:,name:tot12;datatype:" />
+</info>

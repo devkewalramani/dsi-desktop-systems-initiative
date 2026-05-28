@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_checkm" value="name:actualdate;datatype:,name:count;datatype:" />
+	<infoitem key="UD_checkfunc" value="name:ftot;datatype:" />
+	<infoitem key="UD_funclimit" value="name:ID;datatype:,name:func;datatype:,name:limit;datatype:" />
+	<infoitem key="UD_checkodate" value="name:odate;datatype:" />
+</info>

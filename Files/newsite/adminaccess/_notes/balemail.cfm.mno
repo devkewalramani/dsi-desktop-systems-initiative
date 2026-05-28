@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_emailbal" value="name:ID;datatype:,name:func;datatype:,name:bal1first;datatype:,name:bal1last;datatype:,name:bal2first;datatype:,name:bal2last;datatype:,name:bal3first;datatype:,name:bal3last;datatype:,name:bal4first;datatype:,name:bal4last;datatype:,name:bal5first;datatype:,name:bal5last;datatype:" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_checko" value="name:actualdate;datatype:" />
+	<infoitem key="UD_main" value="name:odate;datatype:,name:osession;datatype:,name:count;datatype:" />
+</info>

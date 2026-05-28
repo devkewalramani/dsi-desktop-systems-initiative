@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_asset" value="name:ID;datatype:,name:func;datatype:,name:bu;datatype:,name:mtype;datatype:,name:lname;datatype:,name:fname;datatype:,name:itemdesc;datatype:,name:serial;datatype:,name:comment;datatype:" />
+	<infoitem key="UD_cidinfo" value="name:ID;datatype:,name:grp;datatype:,name:func;datatype:,name:lname;datatype:,name:fname;datatype:,name:ph;datatype:,name:logon;datatype:,name:loc;datatype:" />
+</info>

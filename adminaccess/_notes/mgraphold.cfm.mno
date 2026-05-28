@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_summary1" value="name:tot;datatype:" />
+	<infoitem key="UD_bar1" value="name:count1;datatype:" />
+	<infoitem key="UD_bar2" value="name:count2;datatype:" />
+	<infoitem key="UD_bar3" value="name:count3;datatype:" />
+	<infoitem key="UD_bar4" value="name:count4;datatype:" />
+	<infoitem key="UD_bar5" value="name:count5;datatype:" />
+	<infoitem key="UD_bar6" value="name:count6;datatype:" />
+	<infoitem key="UD_bar7" value="name:count7;datatype:" />
+	<infoitem key="UD_bar8" value="name:count8;datatype:" />
+	<infoitem key="UD_bar9" value="name:count9;datatype:" />
+	<infoitem key="UD_bar10" value="name:count10;datatype:" />
+	<infoitem key="UD_bar11" value="name:count11;datatype:" />
+	<infoitem key="UD_bar12" value="name:count12;datatype:" />
+	<infoitem key="UD_bar13" value="name:count13;datatype:" />
+	<infoitem key="UD_bar14" value="name:count14;datatype:" />
+	<infoitem key="UD_bar15" value="name:count15;datatype:" />
+	<infoitem key="UD_bar16" value="name:count16;datatype:" />
+	<infoitem key="UD_bar17" value="name:count17;datatype:" />
+	<infoitem key="UD_bar18" value="name:count18;datatype:" />
+	<infoitem key="UD_bar19" value="name:count19;datatype:" />
+	<infoitem key="UD_bar20" value="name:count20;datatype:" />
+	<infoitem key="UD_bar21" value="name:count21;datatype:" />
+	<infoitem key="UD_bar23" value="name:count23;datatype:" />
+	<infoitem key="UD_bar24" value="name:count24;datatype:" />
+	<infoitem key="UD_bar25" value="name:count25;datatype:" />
+	<infoitem key="UD_bar26" value="name:count26;datatype:" />
+	<infoitem key="UD_bar27" value="name:count27;datatype:" />
+	<infoitem key="UD_bar28" value="name:count28;datatype:" />
+	<infoitem key="UD_bar29" value="name:count29;datatype:" />
+	<infoitem key="UD_bar30" value="name:count30;datatype:" />
+	<infoitem key="UD_bar31" value="name:count31;datatype:" />
+	<infoitem key="UD_bar32" value="name:count32;datatype:" />
+	<infoitem key="UD_bar22" value="name:count22;datatype:" />
+	<infoitem key="UD_bar" value="name:tot;datatype:" />
+</info>

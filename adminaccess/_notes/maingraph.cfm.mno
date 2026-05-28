@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_group" value="name:grp;datatype:,name:tot;datatype:" />
+	<infoitem key="UD_done" value="name:count;datatype:" />
+	<infoitem key="UD_group2" value="name:ID;datatype:,name:grp;datatype:,name:jan;datatype:,name:feb;datatype:,name:mar;datatype:,name:apr;datatype:,name:may;datatype:,name:jun;datatype:,name:jul;datatype:,name:aug;datatype:,name:sep;datatype:,name:oct;datatype:,name:nov;datatype:,name:dec;datatype:" />
+	<infoitem key="UD_done2" value="name:count;datatype:" />
+	<infoitem key="UD_num" value="name:count;datatype:" />
+	<infoitem key="UD_est" value="name:esttot;datatype:" />
+	<infoitem key="UD_tot1" value="name:count;datatype:" />
+	<infoitem key="UD_tot" value="name:totnum;datatype:" />
+	<infoitem key="UD_estsum" value="name:tot1;datatype:,name:tot2;datatype:,name:tot3;datatype:,name:tot4;datatype:,name:tot5;datatype:,name:tot6;datatype:,name:tot7;datatype:,name:tot8;datatype:,name:tot9;datatype:,name:tot10;datatype:,name:tot11;datatype:,name:tot12;datatype:" />
+	<infoitem key="UD_totdone" value="name:totnum;datatype:" />
+	<infoitem key="UD_report" value="name:mi;datatype:" />
+	<infoitem key="UD_report1" value="name:sch;datatype:" />
+	<infoitem key="UD_report2" value="name:mitot;datatype:" />
+	<infoitem key="UD_report3" value="name:schtot;datatype:" />
+</info>

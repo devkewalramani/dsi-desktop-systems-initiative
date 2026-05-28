@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_report" value="name:IssueID;datatype:,name:opdate;datatype:,name:Description;datatype:,name:Solution;datatype:,name:Assignee;datatype:,name:Status;datatype:" />
+</info>

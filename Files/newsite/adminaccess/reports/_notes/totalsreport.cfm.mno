@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_getfunctions" value="name:func;datatype:" />
+	<infoitem key="UD_totmigrated" value="name:totmi;datatype:" />
+	<infoitem key="UD_totsch" value="name:totsch;datatype:" />
+	<infoitem key="UD_totunsch" value="name:totunsch;datatype:" />
+</info>

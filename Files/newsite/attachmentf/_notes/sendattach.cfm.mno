@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_checkattach" value="name:custid;datatype:" />
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:,name:func;datatype:,name:email;datatype:" />
+	<infoitem key="UD_emailadd" value="name:email;datatype:" />
+</info>

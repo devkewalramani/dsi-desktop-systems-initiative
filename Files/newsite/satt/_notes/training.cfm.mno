@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_training" value="name:ID;datatype:,name:trainingdate;datatype:" />
+	<infoitem key="UD_editdate" value="name:ID;datatype:,name:trainingdate;datatype:" />
+	<infoitem key="UD_checkmaster" value="name:count;datatype:" />
+	<infoitem key="UD_checkmasteram" value="name:countam;datatype:" />
+	<infoitem key="UD_checkmasterpm" value="name:countpm;datatype:" />
+</info>

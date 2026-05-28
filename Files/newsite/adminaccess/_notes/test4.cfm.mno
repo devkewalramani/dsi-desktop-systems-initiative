@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_report" value="name:mi;datatype:" />
+	<infoitem key="UD_report1" value="name:sch;datatype:" />
+	<infoitem key="UD_report2" value="name:mitot;datatype:" />
+	<infoitem key="UD_report3" value="name:schtot;datatype:" />
+</info>

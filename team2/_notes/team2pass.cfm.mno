@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_team2admin" value="name:ID;datatype:,name:func;datatype:,name:pass;datatype:" />
+	<infoitem key="UD_team2" value="name:ID;datatype:,name:func;datatype:,name:pass;datatype:" />
+</info>

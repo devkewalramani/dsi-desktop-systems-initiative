@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_migrations" value="name:lname;datatype:,name:fname;datatype:,name:actual;datatype:,name:logon;datatype:" />
+</info>

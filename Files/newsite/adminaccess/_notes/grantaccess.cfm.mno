@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_grant" value="name:ID;datatype:,name:func;datatype:,name:pass;datatype:,name:grant;datatype:,name:attachfgrant;datatype:" />
+</info>

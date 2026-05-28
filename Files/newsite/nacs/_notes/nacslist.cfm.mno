@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_nacslist" value="name:ID;datatype:,name:fname;datatype:,name:lname;datatype:,name:nextel;datatype:,name:email;datatype:" />
+</info>

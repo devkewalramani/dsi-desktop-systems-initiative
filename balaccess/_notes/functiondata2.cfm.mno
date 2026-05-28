@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_bal" value="name:ID;datatype:,name:grp;datatype:,name:func;datatype:,name:dept;datatype:,name:lname;datatype:,name:fname;datatype:,name:logon;datatype:,name:context;datatype:,name:loc;datatype:,name:flr;datatype:,name:office;datatype:,name:ph;datatype:,name:wrkhrs;datatype:,name:blkberry;datatype:,name:mtype;datatype:,name:dispo;datatype:,name:itemdesc;datatype:,name:serial;datatype:,name:replacemodel;datatype:,name:hbu;datatype:,name:status;datatype:,name:hdrive;datatype:,name:odate;datatype:,name:osession;datatype:,name:tdate;datatype:,name:tsession;datatype:,name:tbu;datatype:,name:midate;datatype:,name:actualdate;datatype:,name:stime;datatype:,name:comment;datatype:,name:tech;datatype:,name:floater;datatype:" />
+</info>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:actualdate;datatype:,name:count;datatype:" />
+	<infoitem key="UD_checkmigrations" value="name:actualdate;datatype:,name:count;datatype:" />
+	<infoitem key="UD_checkorientation" value="name:odate;datatype:,name:count;datatype:" />
+	<infoitem key="UD_checkm" value="name:actualdate;datatype:,name:count;datatype:" />
+	<infoitem key="UD_checko" value="name:odate;datatype:,name:osession;datatype:,name:count;datatype:" />
+	<infoitem key="UD_checkt" value="name:tdate;datatype:,name:tsession;datatype:,name:count;datatype:" />
+	<infoitem key="UD_checkfunc" value="name:ftot;datatype:" />
+	<infoitem key="UD_funclimit" value="name:ID;datatype:,name:func;datatype:,name:limit;datatype:" />
+</info>

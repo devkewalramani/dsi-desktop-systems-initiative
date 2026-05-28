@@ -1,0 +1,25 @@
+There are 3 styles.
+text1:
+ 	Used for the main body of the HTML page.
+	Headings in this area will use the bold tag to distinguish from regular text and links.
+	font-family: Verdana, Arial, Helvetica, sans-serif
+	font-size: x-small
+
+burgundy :
+	Used for the Left Menu area on Templates with a left area.
+	Headings in this area will use the bold tag to distinguish from regular text and links.
+	font-family: Verdana, Arial, Helvetica, sans-serif
+	font-size: x-small
+	color: 560808
+
+silverbox :
+	Used for any special text you wish to place a border around. Works well with paragraphs.
+	This is a silver area with a black border around it, with black colored text the same size as text1.
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #660000;
+	font-size: x-small;
+	border: 1px solid #000000;
+	background-color: #eeeeee;
+	margin: 4px;
+	padding: 4px;
+	width: 100%;

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_summary" value="name:tech;datatype:,name:hdd;datatype:,name:sysprep;datatype:,name:gw;datatype:,name:joinrb;datatype:,name:policy;datatype:,name:dns;datatype:,name:mapk;datatype:,name:otherapps;datatype:,name:context;datatype:,name:rr;datatype:" />
+	<infoitem key="UD_summary1" value="name:totavg;datatype:,name:totmin;datatype:,name:totmax;datatype:" />
+	<infoitem key="UD_techs" value="name:Tech;datatype:,name:Count;datatype:" />
+	<infoitem key="UD_task" value="name:tech;datatype:,name:hdd;datatype:,name:sysprep;datatype:,name:gw;datatype:,name:joinrb;datatype:,name:policy;datatype:,name:dns;datatype:,name:mapk;datatype:,name:otherapps;datatype:,name:context;datatype:,name:rr;datatype:" />
+</info>
